@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "codigo": "85e2e996-371e-4540-913e-d34c08670f76",
+    "nome": "Francisco",
+    "cpf": "08207787961",
+    "nascimento": "181100"
+  },
+  {
+    "codigo": "85979101-5279-40d7-864f-fdf4ccc51a8a",
+    "nome": "Francisco",
+    "cpf": "11177788899",
+    "nascimento": "181100"
+  }
+]
